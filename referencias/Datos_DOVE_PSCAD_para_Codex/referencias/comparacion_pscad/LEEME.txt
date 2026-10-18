@@ -1,0 +1,7 @@
+DATOS DE COMPARACION DOVE: PSCAD frente a STE Calculator
+
+ste_carson.json: exportacion de STE Calculator, sin transposicion, Carson P/Q finito.
+DOVE_220kV_SinTransposicion_Prueba.txt: salida PSCAD sin transposicion.
+DOVE_220kV_ConTransposicion_Prueba.txt: salida PSCAD con transposicion.
+
+Configuracion PSCAD (de la conversacion): circuito unico, 60 Hz, longitud 100 km, resistividad 100 ohm.m, 0 cables de guarda, 4 subconductores por fase, s=0.4572 m, r=0.011765 m, fases A(-3,13), B(3,13), C(0,9) m. Resistencia DC de PSCAD: 0.102 ohm/km por subconductor. STE usa R_AC=0.1859 ohm/milla por subconductor, GMR=0.00954024 m, distinto del modelo DC/AC interno PSCAD. Comparar matrices Z por unidad de longitud, NO valores corregidos por efecto linea larga. La transposicion no esta incluida en el JSON.
