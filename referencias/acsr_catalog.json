@@ -1,0 +1,1626 @@
+{
+  "source": "Tablas_ACSR.pdf, dos páginas, atribución impresa Y.A.R.R. - UTP; condiciones de ampacidad no especificadas en estas páginas",
+  "records": [
+    {
+      "designation": "WREN",
+      "gauge": "8",
+      "aluminium_strands": 6,
+      "steel_strands": 1,
+      "diameter_m": 0.004013,
+      "gmr_m": 0.00095707,
+      "nominal_current_a": 70.0,
+      "r_dc20_ohm_km": 3.3689,
+      "r_ac_ohm_km": {
+        "25": 3.427,
+        "50": 3.772,
+        "75": 4.117
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila WREN, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila WREN, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "WREN 8 6 1 22,9 10,9 33,8 15,4 7,3 22,7 70 3,3689 1,0268 3,427 3,772 4,117 5,515 6,071 6,626 0,413 0,684",
+        "page2": "WREN 8 6 1 1,3335 1,3335 0,0525 0,0525 4,013 0,158 16,510 8,387 9,806 0,0130 0,0152 10 0,95707 0,00314 340,2 0,750"
+      },
+      "warnings": []
+    },
+    {
+      "designation": "WARBLER",
+      "gauge": "7",
+      "aluminium_strands": 6,
+      "steel_strands": 1,
+      "diameter_m": 0.004496000000000001,
+      "gmr_m": 0.0010729,
+      "nominal_current_a": 85.0,
+      "r_dc20_ohm_km": 2.6671,
+      "r_ac_ohm_km": {
+        "25": 2.713,
+        "50": 2.986,
+        "75": 3.26
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila WARBLER, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila WARBLER, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "WARBLER 7 6 1 28,9 13,7 42,6 19,4 9,2 28,6 85 2,6671 0,8129 2,713 2,986 3,260 4,366 4,806 5,246 0,404 0,650",
+        "page2": "WARBLER 7 6 1 1,4961 1,4961 0,0589 0,0589 4,496 0,177 20,820 10,581 12,323 0,0164 0,0191 9 1,07290 0,00352 424,1 0,935"
+      },
+      "warnings": []
+    },
+    {
+      "designation": "TURKEY",
+      "gauge": "6",
+      "aluminium_strands": 6,
+      "steel_strands": 1,
+      "diameter_m": 0.005029,
+      "gmr_m": 0.00120091,
+      "nominal_current_a": 104.0,
+      "r_dc20_ohm_km": 2.1136,
+      "r_ac_ohm_km": {
+        "25": 2.149,
+        "50": 2.448,
+        "75": 2.684
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila TURKEY, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila TURKEY, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "TURKEY 6 6 1 36,5 17,2 53,7 24,5 11,6 36,1 104 2,1136 0,6442 2,149 2,448 2,684 3,459 3,940 4,320 0,395 0,636",
+        "page2": "TURKEY 6 6 1 1,6789 1,6789 0,0661 0,0661 5,029 0,198 26,240 13,290 15,484 0,0206 0,0240 8 1,20091 0,00394 528,4 1,165"
+      },
+      "warnings": []
+    },
+    {
+      "designation": "THRUSH",
+      "gauge": "5",
+      "aluminium_strands": 6,
+      "steel_strands": 1,
+      "diameter_m": 0.005664,
+      "gmr_m": 0.00126797,
+      "nominal_current_a": 122.0,
+      "r_dc20_ohm_km": 1.675,
+      "r_ac_ohm_km": {
+        "25": 1.689,
+        "50": 1.949,
+        "75": 2.151
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila THRUSH, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila THRUSH, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "THRUSH 5 6 1 45,9 21,8 67,7 30,8 14,6 45,4 122 1,6750 0,5105 1,689 1,949 2,151 2,718 3,137 3,461 0,385 0,620",
+        "page2": "THRUSH 5 6 1 1,8872 1,8872 0,0743 0,0743 5,664 0,223 33,090 16,774 19,548 0,0260 0,0303 7 1,26797 0,00416 662,2 1,460"
+      },
+      "warnings": []
+    },
+    {
+      "designation": "SWAN",
+      "gauge": "4",
+      "aluminium_strands": 6,
+      "steel_strands": 1,
+      "diameter_m": 0.00635,
+      "gmr_m": 0.00133198,
+      "nominal_current_a": 139.0,
+      "r_dc20_ohm_km": 1.3278,
+      "r_ac_ohm_km": {
+        "25": 1.353,
+        "50": 1.565,
+        "75": 1.717
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila SWAN, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila SWAN, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "SWAN 4 6 1 57,9 27,5 85,4 38,9 18,5 57,4 139 1,3278 0,4047 1,353 1,565 1,717 2,178 2,518 2,763 0,375 0,604",
+        "page2": "SWAN 4 6 1 2,1184 2,1184 0,0834 0,0834 6,350 0,250 41,740 21,161 24,672 0,0328 0,0383 6 1,33198 0,00437 832,3 1,835"
+      },
+      "warnings": []
+    },
+    {
+      "designation": "SWALLOW",
+      "gauge": "3",
+      "aluminium_strands": 6,
+      "steel_strands": 1,
+      "diameter_m": 0.007136999999999999,
+      "gmr_m": 0.00131064,
+      "nominal_current_a": 162.0,
+      "r_dc20_ohm_km": 1.1142,
+      "r_ac_ohm_km": {
+        "25": 1.103,
+        "50": 1.288,
+        "75": 1.411
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila SWALLOW, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila SWALLOW, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "SWALLOW 3 6 1 73,0 34,6 107,6 49,0 23,2 72,2 162 1,1142 0,3280 1,103 1,288 1,411 1,775 2,073 2,270 0,367 0,591",
+        "page2": "SWALLOW 3 6 1 2,3800 2,3800 0,0937 0,0937 7,137 0,281 52,620 26,645 37,097 0,0413 0,0482 5 1,31064 0,00430 1022,8 2,255"
+      },
+      "warnings": []
+    },
+    {
+      "designation": "SPARROW",
+      "gauge": "2",
+      "aluminium_strands": 6,
+      "steel_strands": 1,
+      "diameter_m": 0.008026,
+      "gmr_m": 0.00127406,
+      "nominal_current_a": 183.0,
+      "r_dc20_ohm_km": 0.8344,
+      "r_ac_ohm_km": {
+        "25": 0.853,
+        "50": 1.012,
+        "75": 1.108
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila SPARROW, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila SPARROW, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "SPARROW 2 6 1 92,3 43,6 135,9 62,0 29,3 91,3 183 0,8344 0,2543 0,853 1,012 1,108 1,372 1,628 1,783 0,359 0,578",
+        "page2": "SPARROW 2 6 1 2,6721 2,6721 0,1052 0,1052 8,026 0,316 66,360 33,613 39,226 0,0521 0,0608 4 1,27406 0,00418 1265,5 2,790"
+      },
+      "warnings": []
+    },
+    {
+      "designation": "ROBIN",
+      "gauge": "1",
+      "aluminium_strands": 6,
+      "steel_strands": 1,
+      "diameter_m": 0.009016999999999999,
+      "gmr_m": 0.00127406,
+      "nominal_current_a": 210.0,
+      "r_dc20_ohm_km": 0.6621,
+      "r_ac_ohm_km": {
+        "25": 0.677,
+        "50": 0.811,
+        "75": 0.89
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila ROBIN, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila ROBIN, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "ROBIN 1 6 1 116,4 55,0 171,4 78,2 37,0 115,2 210 0,6621 0,2018 0,677 0,811 0,890 1,089 1,305 1,433 0,350 0,564",
+        "page2": "ROBIN 1 6 1 3,0023 3,0023 0,1182 0,1182 9,017 0,355 83,690 42,387 49,484 0,0657 0,0767 3 1,27406 0,00418 1583,0 3,490"
+      },
+      "warnings": []
+    },
+    {
+      "designation": "RAVEN",
+      "gauge": "1/0",
+      "aluminium_strands": 6,
+      "steel_strands": 1,
+      "diameter_m": 0.010109,
+      "gmr_m": 0.00135941,
+      "nominal_current_a": 240.0,
+      "r_dc20_ohm_km": 0.5243,
+      "r_ac_ohm_km": {
+        "25": 0.537,
+        "50": 0.654,
+        "75": 0.716
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila RAVEN, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila RAVEN, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "RAVEN 1/0 6 1 146,7 69,4 216,1 98,6 36,6 145,2 240 0,5243 0,1598 0,537 0,654 0,716 0,864 1,052 1,153 0,342 0,550",
+        "page2": "RAVEN 1/0 6 1 3,3706 3,3706 0,1327 0,1327 10,109 0,398 105,600 53,484 62,387 0,0829 0,0967 2 1,35941 0,00446 1941,4 4,280"
+      },
+      "warnings": []
+    },
+    {
+      "designation": "QUAIL",
+      "gauge": "2/0",
+      "aluminium_strands": 6,
+      "steel_strands": 1,
+      "diameter_m": 0.011354,
+      "gmr_m": 0.00155448,
+      "nominal_current_a": 275.0,
+      "r_dc20_ohm_km": 0.416,
+      "r_ac_ohm_km": {
+        "25": 0.426,
+        "50": 0.53,
+        "75": 0.58
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila QUAIL, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila QUAIL, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "QUAIL 2/0 6 1 185,0 87,5 272,5 124,3 58,8 183,1 275 0,4160 0,1268 0,426 0,530 0,580 0,686 0,853 0,934 0,333 0,536",
+        "page2": "QUAIL 2/0 6 1 3,7846 3,7846 0,1490 0,1490 11,354 0,447 133,100 67,419 78,645 0,1045 0,1217 1 1,55448 0,00510 2424,4 5,345"
+      },
+      "warnings": []
+    },
+    {
+      "designation": "PIGEON",
+      "gauge": "3/0",
+      "aluminium_strands": 6,
+      "steel_strands": 1,
+      "diameter_m": 0.012751,
+      "gmr_m": 0.0018288,
+      "nominal_current_a": 316.0,
+      "r_dc20_ohm_km": 0.3304,
+      "r_ac_ohm_km": {
+        "25": 0.339,
+        "50": 0.429,
+        "75": 0.47
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila PIGEON, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila PIGEON, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "PIGEON 3/0 6 1 233,3 110,2 343,5 156,8 74,0 230,8 316 0,3304 0,1007 0,339 0,429 0,470 0,545 0,690 0,757 0,323 0,520",
+        "page2": "PIGEON 3/0 6 1 4,2469 4,2469 0,1672 0,1672 12,751 0,502 167,800 85,032 99,226 0,1318 0,1538 1/0 1,82880 0,00600 3030,0 6,680"
+      },
+      "warnings": []
+    },
+    {
+      "designation": "PENGUIN",
+      "gauge": "4/0",
+      "aluminium_strands": 6,
+      "steel_strands": 1,
+      "diameter_m": 0.0143,
+      "gmr_m": 0.0024810699999999997,
+      "nominal_current_a": 360.0,
+      "r_dc20_ohm_km": 0.2618,
+      "r_ac_ohm_km": {
+        "25": 0.27,
+        "50": 0.354,
+        "75": 0.383
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila PENGUIN, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila PENGUIN, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "PENGUIN 4/0 6 1 294,2 139,0 433,2 197,7 93,4 291,1 360 0,2618 0,0798 0,270 0,354 0,383 0,434 0,569 0,617 0,316 0,508",
+        "page2": "PENGUIN 4/0 6 1 4,7701 4,7701 0,1878 0,1878 14,300 0,563 211,600 107,226 125,097 0,1662 0,1939 2/0 2,48107 0,00814 3819,2 8,420"
+      },
+      "warnings": []
+    },
+    {
+      "designation": "WAXWING",
+      "gauge": "266,8",
+      "aluminium_strands": 18,
+      "steel_strands": 1,
+      "diameter_m": 0.015469,
+      "gmr_m": 0.00603504,
+      "nominal_current_a": 448.0,
+      "r_dc20_ohm_km": 0.212,
+      "r_ac_ohm_km": {
+        "25": 0.216,
+        "50": 0.237,
+        "75": 0.258
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila WAXWING, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila WAXWING, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "WAXWING 266,8 18 1 372,9 58,7 431,6 250,6 39,4 290,0 448 0,2120 0,0646 0,216 0,237 0,258 0,348 0,382 0,416 0,296 0,476",
+        "page2": "WAXWING 266,8 18 1 3,0912 3,0912 0,1217 0,1217 15,469 0,609 266,800 135,161 142,645 0,2095 0,2211 3/0 6,03504 0,01980 3120,7 6,880"
+      },
+      "warnings": []
+    },
+    {
+      "designation": "PARTRIDGE",
+      "gauge": "266,8",
+      "aluminium_strands": 26,
+      "steel_strands": 7,
+      "diameter_m": 0.016307,
+      "gmr_m": 0.00661416,
+      "nominal_current_a": 457.0,
+      "r_dc20_ohm_km": 0.21,
+      "r_ac_ohm_km": {
+        "25": 0.214,
+        "50": 0.235,
+        "75": 0.256
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila PARTRIDGE, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila PARTRIDGE, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "PARTRIDGE 266,8 26 7 374,1 172,1 546,2 251,4 115,6 367,0 457 0,2100 0,0640 0,214 0,235 0,256 0,344 0,378 0,412 0,289 0,465",
+        "page2": "PARTRIDGE 266,8 26 7 2,5730 2,0015 0,1013 0,0788 16,307 0,642 266,800 135,161 157,161 0,2095 0,2436 3/0 6,61416 0,02170 5098,4 11,240"
+      },
+      "warnings": []
+    },
+    {
+      "designation": "OWL",
+      "gauge": "266,8",
+      "aluminium_strands": 6,
+      "steel_strands": 7,
+      "diameter_m": 0.016078,
+      "gmr_m": 0.0019751,
+      "nominal_current_a": 457.0,
+      "r_dc20_ohm_km": 0.2083,
+      "r_ac_ohm_km": {
+        "25": 0.216,
+        "50": 0.343,
+        "75": 0.404
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila OWL, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila OWL, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "OWL 266,8 6 7 370,1 136,7 506,8 248,7 91,9 340,6 457 0,2083 0,0635 0,216 0,343 0,404 0,348 0,382 0,417 0,376 0,482",
+        "page2": "OWL 266,8 6 7 5,3569 1,7856 0,2109 0,0703 16,078 0,633 266,800 135,161 152,709 0,2095 0,2367 4/0 1,97510 0,00684 4329,5 9,545"
+      },
+      "warnings": [
+        "Columnas AC por km y por milla no concuerdan al redondeo; se conserva la columna Ω/km publicada.",
+        "RMG impreso en mm y pies no concuerda; revisar antes de usar L. Se conserva la columna mm."
+      ]
+    },
+    {
+      "designation": "PIPER",
+      "gauge": "300,0",
+      "aluminium_strands": 30,
+      "steel_strands": 7,
+      "diameter_m": 0.01778,
+      "gmr_m": 0.007345679999999999,
+      "nominal_current_a": 502.0,
+      "r_dc20_ohm_km": 0.187,
+      "r_ac_ohm_km": {
+        "25": 0.196,
+        "50": 0.217,
+        "75": 0.237
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila PIPER, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila PIPER, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "PIPER 300,0 30 7 420,2 271,5 691,7 249,0 164,0 413,0 502 0,1870 0,0570 0,196 0,217 0,237 0,316 0,305 0,381 0,281 0,452",
+        "page2": "PIPER 300,0 30 7 2,5400 2,5400 0,1000 0,1000 17,780 0,700 300,000 152,000 187,483 0,2356 0,2906 188,7 7,34568 0,0241 6998,9 15,430"
+      },
+      "warnings": [
+        "Columnas AC por km y por milla no concuerdan al redondeo; se conserva la columna Ω/km publicada."
+      ]
+    },
+    {
+      "designation": "OSTRICH",
+      "gauge": "300,0",
+      "aluminium_strands": 26,
+      "steel_strands": 7,
+      "diameter_m": 0.017272,
+      "gmr_m": 0.00697992,
+      "nominal_current_a": 492.0,
+      "r_dc20_ohm_km": 0.1867,
+      "r_ac_ohm_km": {
+        "25": 0.19,
+        "50": 0.209,
+        "75": 0.227
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila OSTRICH, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila OSTRICH, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "OSTRICH 300,0 26 7 419,7 193,0 612,7 282,0 129,7 411,7 492 0,1867 0,0569 0,190 0,209 0,227 0,306 0,336 0,366 0,285 0,458",
+        "page2": "OSTRICH 300,0 26 7 2,7280 2,1209 0,1074 0,0836 17,272 0,680 300,000 152,000 176,709 0,2356 0,2739 188,7 6,97992 0,0229 5728,8 12,630"
+      },
+      "warnings": []
+    },
+    {
+      "designation": "MERLIN",
+      "gauge": "336,4",
+      "aluminium_strands": 18,
+      "steel_strands": 1,
+      "diameter_m": 0.017373999999999997,
+      "gmr_m": 0.0067665600000000005,
+      "nominal_current_a": 518.0,
+      "r_dc20_ohm_km": 0.168,
+      "r_ac_ohm_km": {
+        "25": 0.172,
+        "50": 0.189,
+        "75": 0.206
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila MERLIN, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila MERLIN, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "MERLIN 336,4 18 1 469,3 73,9 543,2 315,3 49,7 365,0 518 0,1680 0,0512 0,172 0,189 0,206 0,276 0,304 0,331 0,287 0,462",
+        "page2": "MERLIN 336,4 18 1 3,4722 3,4722 0,1367 1,1367 17,374 0,684 336,400 170,451 179,935 0,2642 0,2787 4/0 6,76656 0,0222 3937,2 8,680"
+      },
+      "warnings": []
+    },
+    {
+      "designation": "ORIOLE",
+      "gauge": "336,4",
+      "aluminium_strands": 30,
+      "steel_strands": 7,
+      "diameter_m": 0.018821,
+      "gmr_m": 0.0077724000000000005,
+      "nominal_current_a": 534.0,
+      "r_dc20_ohm_km": 0.1654,
+      "r_ac_ohm_km": {
+        "25": 0.168,
+        "50": 0.185,
+        "75": 0.201
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila ORIOLE, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila ORIOLE, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "ORIOLE 336,4 30 7 472,9 311,4 784,3 317,8 209,2 527,0 534 0,1654 0,0504 0,168 0,185 0,201 0,271 0,297 0,324 0,277 0,445",
+        "page2": "ORIOLE 336,4 30 7 2,6899 2,6899 0,1059 1,1059 18,821 0,741 336,400 170,451 210,258 0,2642 0,3259 4/0 7,77240 0,0225 7733,7 17,050"
+      },
+      "warnings": [
+        "RMG impreso en mm y pies no concuerda; revisar antes de usar L. Se conserva la columna mm."
+      ]
+    },
+    {
+      "designation": "LINNET",
+      "gauge": "336,4",
+      "aluminium_strands": 26,
+      "steel_strands": 7,
+      "diameter_m": 0.018343,
+      "gmr_m": 0.00740664,
+      "nominal_current_a": 528.0,
+      "r_dc20_ohm_km": 0.1663,
+      "r_ac_ohm_km": {
+        "25": 0.17,
+        "50": 0.186,
+        "75": 0.203
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila LINNET, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila LINNET, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "LINNET 336,4 26 7 472,0 217,0 689,0 317,2 145,8 463,0 528 0,1663 0,0507 0,170 0,186 0,203 0,273 0,300 0,327 0,280 0,451",
+        "page2": "LINNET 336,4 26 7 2,8905 2,2479 0,1138 0,0885 18,343 0,721 336,400 170,451 198,258 0,2642 0,3073 4/0 7,40664 0,0243 6377,5 14,060"
+      },
+      "warnings": []
+    },
+    {
+      "designation": "LARK",
+      "gauge": "397,5",
+      "aluminium_strands": 30,
+      "steel_strands": 7,
+      "diameter_m": 0.020472,
+      "gmr_m": 0.00691896,
+      "nominal_current_a": 593.0,
+      "r_dc20_ohm_km": 0.1401,
+      "r_ac_ohm_km": {
+        "25": 0.142,
+        "50": 0.157,
+        "75": 0.171
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila LARK, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila LARK, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "LARK 397,5 30 7 559,0 368,1 927,1 375,7 247,3 623,0 593 0,1401 0,0427 0,142 0,157 0,171 0,229 0,252 0,275 0,270 0,435",
+        "page2": "LARK 397,5 30 7 2,9235 2,9235 0,1151 0,1151 20,472 0,806 397,500 201,419 248,387 0,3122 0,3850 250,0 6,91896 0,0277 9058,2 19,970"
+      },
+      "warnings": [
+        "RMG impreso en mm y pies no concuerda; revisar antes de usar L. Se conserva la columna mm."
+      ]
+    },
+    {
+      "designation": "IBIS",
+      "gauge": "397,5",
+      "aluminium_strands": 26,
+      "steel_strands": 7,
+      "diameter_m": 0.019888000000000003,
+      "gmr_m": 0.00804672,
+      "nominal_current_a": 586.0,
+      "r_dc20_ohm_km": 0.1411,
+      "r_ac_ohm_km": {
+        "25": 0.144,
+        "50": 0.158,
+        "75": 0.172
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila IBIS, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila IBIS, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "IBIS 397,5 26 7 557,6 256,4 814,0 374,7 172,3 547,0 586 0,1411 0,0430 0,144 0,158 0,172 0,231 0,254 0,277 0,274 0,441",
+        "page2": "IBIS 397,5 26 7 3,1394 2,4409 0,1236 0,0961 19,888 0,783 397,500 201,419 234,193 0,3122 0,3630 250,0 8,04672 0,0264 7339,1 16,180"
+      },
+      "warnings": []
+    },
+    {
+      "designation": "PELICAN",
+      "gauge": "477,0",
+      "aluminium_strands": 18,
+      "steel_strands": 1,
+      "diameter_m": 0.020676,
+      "gmr_m": 0.00804672,
+      "nominal_current_a": 644.0,
+      "r_dc20_ohm_km": 0.1184,
+      "r_ac_ohm_km": {
+        "25": 0.122,
+        "50": 0.134,
+        "75": 0.145
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila PELICAN, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila PELICAN, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "PELICAN 477,0 18 1 666,1 104,8 770,9 447,6 70,4 518,0 644 0,1184 0,0361 0,122 0,134 0,145 0,196 0,215 0,234 0,274 0,441",
+        "page2": "PELICAN 477,0 18 1 4,1351 4,1351 0,1628 0,1628 20,676 0,814 477,000 241,677 255,096 0,3746 0,3954 300,0 8,04672 0,0264 5352,4 11,800"
+      },
+      "warnings": []
+    },
+    {
+      "designation": "FLICKER",
+      "gauge": "477,0",
+      "aluminium_strands": 24,
+      "steel_strands": 7,
+      "diameter_m": 0.021488,
+      "gmr_m": 0.008656319999999999,
+      "nominal_current_a": 654.0,
+      "r_dc20_ohm_km": 0.1179,
+      "r_ac_ohm_km": {
+        "25": 0.121,
+        "50": 0.132,
+        "75": 0.144
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila FLICKER, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila FLICKER, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "FLICKER 477,0 24 7 670,4 245,3 915,7 450,2 164,8 615,0 654 0,1179 0,0359 0,121 0,132 0,144 0,194 0,213 0,232 0,268 0,432",
+        "page2": "FLICKER 477,0 24 7 3,5814 2,3876 0,1410 0,0940 21,488 0,846 477,000 241,677 273,032 0,3746 0,3954 300,0 8,65632 0,0284 7801,7 17,200"
+      },
+      "warnings": []
+    },
+    {
+      "designation": "HEN",
+      "gauge": "477,0",
+      "aluminium_strands": 30,
+      "steel_strands": 7,
+      "diameter_m": 0.022428,
+      "gmr_m": 0.009265919999999999,
+      "nominal_current_a": 665.0,
+      "r_dc20_ohm_km": 0.1165,
+      "r_ac_ohm_km": {
+        "25": 0.119,
+        "50": 0.13,
+        "75": 0.142
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila HEN, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila HEN, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "HEN 477,0 30 7 670,4 441,3 1111,7 450,5 296,5 747,0 665 0,1165 0,0355 0,119 0,130 0,142 0,191 0,210 0,229 0,263 0,424",
+        "page2": "HEN 477,0 30 7 3,2029 3,2029 0,1261 0,1261 22,428 0,883 477,000 241,677 298,064 0,3746 0,4620 300,0 9,26592 0,0304 10591,3 23,350"
+      },
+      "warnings": []
+    },
+    {
+      "designation": "HAWK",
+      "gauge": "477,0",
+      "aluminium_strands": 26,
+      "steel_strands": 7,
+      "diameter_m": 0.021793,
+      "gmr_m": 0.008808719999999999,
+      "nominal_current_a": 658.0,
+      "r_dc20_ohm_km": 0.1171,
+      "r_ac_ohm_km": {
+        "25": 0.12,
+        "50": 0.132,
+        "75": 0.144
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila HAWK, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila HAWK, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "HAWK 477,0 26 7 669,7 308,0 977,7 450,0 207,0 657,0 658 0,1171 0,0357 0,120 0,132 0,144 0,183 0,212 0,231 0,267 0,430",
+        "page2": "HAWK 477,0 26 7 3,4417 2,6772 0,1355 0,1054 21,793 0,858 477,000 241,677 281,096 0,3746 0,4357 300,0 8,80872 0,0289 8817,8 19,440"
+      },
+      "warnings": [
+        "Columnas AC por km y por milla no concuerdan al redondeo; se conserva la columna Ω/km publicada."
+      ]
+    },
+    {
+      "designation": "HERON",
+      "gauge": "500,0",
+      "aluminium_strands": 30,
+      "steel_strands": 7,
+      "diameter_m": 0.022962,
+      "gmr_m": 0.00947928,
+      "nominal_current_a": 683.0,
+      "r_dc20_ohm_km": 0.1119,
+      "r_ac_ohm_km": {
+        "25": 0.111,
+        "50": 0.122,
+        "75": 0.133
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila HERON, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila HERON, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "HERON 500,0 30 7 701,0 461,0 1162,0 471,0 309,8 780,2 683 0,1119 0,0341 0,111 0,122 0,133 0,179 0,196 0,214 0,262 0,421",
+        "page2": "HERON 500,0 30 7 3,2791 3,2791 0,1291 0,1291 22,962 0,904 500,000 253,354 312,451 0,3927 0,4843 314,5 9,47928 0,0311 11090,3 16,180"
+      },
+      "warnings": []
+    },
+    {
+      "designation": "OSPREY",
+      "gauge": "556,5",
+      "aluminium_strands": 18,
+      "steel_strands": 1,
+      "diameter_m": 0.022327000000000003,
+      "gmr_m": 0.008656319999999999,
+      "nominal_current_a": 708.0,
+      "r_dc20_ohm_km": 0.1014,
+      "r_ac_ohm_km": {
+        "25": 0.104,
+        "50": 0.115,
+        "75": 0.126
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila OSPREY, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila OSPREY, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "OSPREY 556,5 18 1 776,7 122,2 898,9 521,9 82,1 604,0 708 0,1014 0,0309 0,104 0,115 0,126 0,168 0,185 0,202 0,268 0,432",
+        "page2": "OSPREY 556,5 18 1 4,4653 4,4653 0,1758 0,1758 22,327 0,879 556,500 281,999 297,677 0,4371 0,4614 350,0 8,65632 0,0284 6214,2 11,800"
+      },
+      "warnings": []
+    },
+    {
+      "designation": "PARAKEET",
+      "gauge": "566,5",
+      "aluminium_strands": 24,
+      "steel_strands": 7,
+      "diameter_m": 0.023216,
+      "gmr_m": 0.00932688,
+      "nominal_current_a": 718.0,
+      "r_dc20_ohm_km": 0.1011,
+      "r_ac_ohm_km": {
+        "25": 0.104,
+        "50": 0.114,
+        "75": 0.124
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila PARAKEET, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila PARAKEET, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "PARAKEET 566,5 24 7 781,0 286,0 1067,0 524,8 192,2 717,0 718 0,1011 0,0308 0,104 0,114 0,124 0,167 0,183 0,200 0,263 0,423",
+        "page2": "PARAKEET 566,5 24 7 3,8684 2,5781 0,1523 0,1015 23,216 0,914 556,500 281,999 318,580 0,4371 0,4938 350,0 9,32688 0,0306 8981,1 17,200"
+      },
+      "warnings": []
+    },
+    {
+      "designation": "EAGLE",
+      "gauge": "566,5",
+      "aluminium_strands": 30,
+      "steel_strands": 7,
+      "diameter_m": 0.024206,
+      "gmr_m": 0.00996696,
+      "nominal_current_a": 732.0,
+      "r_dc20_ohm_km": 0.1001,
+      "r_ac_ohm_km": {
+        "25": 0.102,
+        "50": 0.112,
+        "75": 0.122
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila EAGLE, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila EAGLE, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "EAGLE 566,5 30 7 782,5 515,2 1297,7 525,8 346,2 872,0 732 0,1001 0,0305 0,102 0,112 0,122 0,164 0,180 0,197 0,258 0,415",
+        "page2": "EAGLE 566,5 30 7 3,4595 3,4595 0,1362 0,1362 24,206 0,953 556,500 281,999 347,806 0,4371 0,5391 350,0 9,96696 0,0327 12360,3 23,350"
+      },
+      "warnings": []
+    },
+    {
+      "designation": "DOVE",
+      "gauge": "556,5",
+      "aluminium_strands": 26,
+      "steel_strands": 7,
+      "diameter_m": 0.023546,
+      "gmr_m": 0.00957072,
+      "nominal_current_a": 725.0,
+      "r_dc20_ohm_km": 0.1007,
+      "r_ac_ohm_km": {
+        "25": 0.103,
+        "50": 0.113,
+        "75": 0.123
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila DOVE, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila DOVE, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "DOVE 556,5 26 7 780,8 359,1 1139,9 524,7 241,3 766,0 725 0,1007 0,0307 0,103 0,113 0,123 0,166 0,182 0,198 0,261 0,420",
+        "page2": "DOVE 556,5 26 7 3,7160 2,8905 0,1463 0,1138 23,546 0,927 556,500 281,999 327,935 0,4371 0,5083 350,0 9,57072 0,0314 10183,1 22,450"
+      },
+      "warnings": []
+    },
+    {
+      "designation": "PEACOCK",
+      "gauge": "605,0",
+      "aluminium_strands": 24,
+      "steel_strands": 7,
+      "diameter_m": 0.024206,
+      "gmr_m": 0.00972312,
+      "nominal_current_a": 757.0,
+      "r_dc20_ohm_km": 0.0929,
+      "r_ac_ohm_km": {
+        "25": 0.095,
+        "50": 0.105,
+        "75": 0.114
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila PEACOCK, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila PEACOCK, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "PEACOCK 605,0 24 7 848,5 312,3 1160,8 570,1 209,9 780,0 757 0,0929 0,0283 0,095 0,105 0,114 0,153 0,169 0,184 0,260 0,418",
+        "page2": "PEACOCK 605,0 24 7 4,0335 2,6899 0,1588 0,1059 24,206 0,953 605,000 306,580 346,322 0,4752 0,5368 380,5 9,72312 0,0319 9797,1 21,600"
+      },
+      "warnings": []
+    },
+    {
+      "designation": "DUCK",
+      "gauge": "605,0",
+      "aluminium_strands": 54,
+      "steel_strands": 7,
+      "diameter_m": 0.024206,
+      "gmr_m": 0.009784079999999999,
+      "nominal_current_a": 754.0,
+      "r_dc20_ohm_km": 0.0925,
+      "r_ac_ohm_km": {
+        "25": 0.096,
+        "50": 0.106,
+        "75": 0.115
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila DUCK, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila DUCK, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "DUCK 605,0 54 7 848,0 310,0 1158,0 569,8 208,3 778,1 754 0,0925 0,0282 0,096 0,106 0,115 0,155 0,170 0,185 0,259 0,417",
+        "page2": "DUCK 605,0 54 7 2,6899 2,6899 0,1059 0,1059 24,206 0,953 605,000 306,580 346,386 0,4752 0,5369 380,5 9,78408 0,0321 10205,8 22,500"
+      },
+      "warnings": []
+    },
+    {
+      "designation": "ROOK",
+      "gauge": "636,0",
+      "aluminium_strands": 24,
+      "steel_strands": 7,
+      "diameter_m": 0.024815999999999998,
+      "gmr_m": 0.00996696,
+      "nominal_current_a": 782.0,
+      "r_dc20_ohm_km": 0.0883,
+      "r_ac_ohm_km": {
+        "25": 0.091,
+        "50": 0.1,
+        "75": 0.109
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila ROOK, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila ROOK, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "ROOK 636,0 24 7 892,2 326,6 1218,8 599,5 219,5 819,0 782 0,0883 0,0269 0,091 0,100 0,109 0,146 0,161 0,175 0,258 0,415",
+        "page2": "ROOK 636,0 24 7 4,1351 2,7559 0,1628 0,1085 24,816 0,977 636,000 322,257 364,064 0,4995 0,5643 400,0 9,96696 0,0327 9979,0 22,000"
+      },
+      "warnings": []
+    },
+    {
+      "designation": "EGRET",
+      "gauge": "636,0",
+      "aluminium_strands": 30,
+      "steel_strands": 19,
+      "diameter_m": 0.025883,
+      "gmr_m": 0.010728960000000001,
+      "nominal_current_a": 797.0,
+      "r_dc20_ohm_km": 0.0875,
+      "r_ac_ohm_km": {
+        "25": 0.089,
+        "50": 0.098,
+        "75": 0.107
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila EGRET, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila EGRET, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "EGRET 636,0 30 19 893,9 576,4 1470,3 600,7 387,3 988,0 797 0,0875 0,0267 0,089 0,098 0,107 0,144 0,158 0,172 0,252 0,406",
+        "page2": "EGRET 636,0 30 19 3,6982 2,2200 0,1456 0,0874 25,883 1,019 636,000 322,257 395,806 0,4995 0,6135 400,0 10,72896 0,0352 14333,4 31,600"
+      },
+      "warnings": []
+    },
+    {
+      "designation": "GROSBEAK",
+      "gauge": "636,0",
+      "aluminium_strands": 26,
+      "steel_strands": 7,
+      "diameter_m": 0.025146,
+      "gmr_m": 0.0102108,
+      "nominal_current_a": 787.0,
+      "r_dc20_ohm_km": 0.0879,
+      "r_ac_ohm_km": {
+        "25": 0.09,
+        "50": 0.099,
+        "75": 0.108
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila GROSBEAK, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila GROSBEAK, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "GROSBEAK 636,0 26 7 891,9 410,2 1302,1 599,4 275,6 875,0 787 0,0879 0,0268 0,090 0,099 0,108 0,145 0,160 0,174 0,256 0,412",
+        "page2": "GROSBEAK 636,0 26 7 3,9726 3,0886 0,1564 0,1216 25,146 0,990 636,000 322,257 374,709 0,4995 0,5808 400,0 10,21080 0,0335 11339,8 25,000"
+      },
+      "warnings": []
+    },
+    {
+      "designation": "GOOSE",
+      "gauge": "636,0",
+      "aluminium_strands": 54,
+      "steel_strands": 7,
+      "diameter_m": 0.024815999999999998,
+      "gmr_m": 0.01002792,
+      "nominal_current_a": 777.0,
+      "r_dc20_ohm_km": 0.0883,
+      "r_ac_ohm_km": {
+        "25": 0.086,
+        "50": 0.097,
+        "75": 0.104
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila GOOSE, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila GOOSE, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "GOOSE 636,0 54 7 892,0 326,0 1218,0 599,4 219,1 818,5 777 0,0883 0,0269 0,086 0,097 0,104 0,139 0,156 0,167 0,257 0,414",
+        "page2": "GOOSE 636,0 54 7 2,7559 2,7559 0,1085 0,1085 24,816 0,977 636,000 322,257 363,999 0,4995 0,5642 400,0 10,02792 0,0329 10727,4 23,650"
+      },
+      "warnings": []
+    },
+    {
+      "designation": "FLAMINGO",
+      "gauge": "666,6",
+      "aluminium_strands": 24,
+      "steel_strands": 7,
+      "diameter_m": 0.0254,
+      "gmr_m": 0.0102108,
+      "nominal_current_a": 805.0,
+      "r_dc20_ohm_km": 0.0843,
+      "r_ac_ohm_km": {
+        "25": 0.086,
+        "50": 0.095,
+        "75": 0.104
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila FLAMINGO, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila FLAMINGO, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "FLAMINGO 666,6 24 7 934,6 342,2 1276,8 628,0 230,0 858,0 805 0,0843 0,0257 0,086 0,095 0,104 0,139 0,153 0,167 0,256 0,412",
+        "page2": "FLAMINGO 666,6 24 7 4,2342 2,8219 0,1667 0,1111 25,400 1,000 666,600 337,741 381,548 0,5235 0,5914 419,0 10,21080 0,0335 10750,1 23,700"
+      },
+      "warnings": []
+    },
+    {
+      "designation": "GULL",
+      "gauge": "666,6",
+      "aluminium_strands": 54,
+      "steel_strands": 7,
+      "diameter_m": 0.0254,
+      "gmr_m": 0.010271760000000001,
+      "nominal_current_a": 807.0,
+      "r_dc20_ohm_km": 0.0837,
+      "r_ac_ohm_km": {
+        "25": 0.083,
+        "50": 0.094,
+        "75": 0.099
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila GULL, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila GULL, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "GULL 666,6 54 7 935,0 341,0 1276,0 628,3 229,1 857,4 807 0,0837 0,0255 0,083 0,094 0,099 0,133 0,151 0,160 0,256 0,412",
+        "page2": "GULL 666,6 54 7 2,8219 2,8219 0,1111 0,1111 25,400 1,000 666,600 337,741 381,548 0,5235 0,5914 419,0 10,27176 0,0337 11135,6 24,550"
+      },
+      "warnings": []
+    },
+    {
+      "designation": "REDWING",
+      "gauge": "715,5",
+      "aluminium_strands": 30,
+      "steel_strands": 19,
+      "diameter_m": 0.027457000000000002,
+      "gmr_m": 0.01136904,
+      "nominal_current_a": 858.0,
+      "r_dc20_ohm_km": 0.0778,
+      "r_ac_ohm_km": {
+        "25": 0.08,
+        "50": 0.088,
+        "75": 0.095
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila REDWING, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila REDWING, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "REDWING 715,5 30 19 1005,2 648,1 1653,3 675,5 435,5 1111,0 858 0,0778 0,0237 0,080 0,088 0,095 0,128 0,141 0,153 0,248 0,388",
+        "page2": "REDWING 715,5 30 19 3,9218 2,3520 0,1544 0,0926 27,457 1,081 715,500 362,580 445,160 0,5620 0,6900 450,0 11,36904 0,0373 15694,2 34,600"
+      },
+      "warnings": []
+    },
+    {
+      "designation": "STARLING",
+      "gauge": "715,5",
+      "aluminium_strands": 26,
+      "steel_strands": 7,
+      "diameter_m": 0.026695,
+      "gmr_m": 0.010820399999999999,
+      "nominal_current_a": 847.0,
+      "r_dc20_ohm_km": 0.0781,
+      "r_ac_ohm_km": {
+        "25": 0.081,
+        "50": 0.088,
+        "75": 0.096
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila STARLING, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila STARLING, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "STARLING 715,5 26 7 1004,1 461,7 1465,8 674,8 310,2 985,0 847 0,0781 0,0238 0,081 0,088 0,096 0,130 0,142 0,155 0,252 0,406",
+        "page2": "STARLING 715,5 26 7 4,2139 3,2766 0,1659 0,1290 26,695 1,051 715,500 362,580 421,612 0,5620 0,6535 450,0 10,82040 0,0355 12745,9 28,100"
+      },
+      "warnings": []
+    },
+    {
+      "designation": "CROW",
+      "gauge": "715,5",
+      "aluminium_strands": 54,
+      "steel_strands": 7,
+      "diameter_m": 0.026314,
+      "gmr_m": 0.010637520000000001,
+      "nominal_current_a": 825.0,
+      "r_dc20_ohm_km": 0.0787,
+      "r_ac_ohm_km": {
+        "25": 0.081,
+        "50": 0.091,
+        "75": 0.101
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila CROW, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila CROW, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "CROW 715,5 54 7 1003,0 367,0 1370,0 674,0 246,6 920,6 825 0,0787 0,0240 0,081 0,091 0,101 0,130 0,146 0,162 0,253 0,407",
+        "page2": "CROW 715,5 54 7 2,9235 2,9235 0,1151 0,1151 26,314 1,036 715,500 362,580 409,548 0,5620 0,6348 450,0 10,63752 0,0349 11952,1 26,350"
+      },
+      "warnings": []
+    },
+    {
+      "designation": "TERN",
+      "gauge": "795,0",
+      "aluminium_strands": 45,
+      "steel_strands": 7,
+      "diameter_m": 0.027,
+      "gmr_m": 0.010728960000000001,
+      "nominal_current_a": 875.0,
+      "r_dc20_ohm_km": 0.0712,
+      "r_ac_ohm_km": {
+        "25": 0.074,
+        "50": 0.082,
+        "75": 0.091
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila TERN, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila TERN, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "TERN 795,0 45 7 1116,1 217,3 1333,4 750,0 146,0 896,0 875 0,0712 0,0217 0,074 0,082 0,091 0,119 0,132 0,146 0,252 0,406",
+        "page2": "TERN 795,0 45 7 2,3757 2,2504 0,1329 0,0886 27,000 1,063 795,000 402,838 430,709 0,6244 0,6636 500,0 10,72896 0,0352 10024,3 23,700"
+      },
+      "warnings": []
+    },
+    {
+      "designation": "MALLARD",
+      "gauge": "795,0",
+      "aluminium_strands": 30,
+      "steel_strands": 19,
+      "diameter_m": 0.028957999999999998,
+      "gmr_m": 0.01194816,
+      "nominal_current_a": 913.0,
+      "r_dc20_ohm_km": 0.0699,
+      "r_ac_ohm_km": {
+        "25": 0.072,
+        "50": 0.08,
+        "75": 0.086
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila MALLARD, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila MALLARD, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "MALLARD 795,0 30 19 1117,5 720,4 1837,9 751,0 484,0 1235,0 913 0,0699 0,0213 0,072 0,080 0,086 0,116 0,128 0,139 0,244 0,393",
+        "page2": "MALLARD 795,0 30 19 4,1351 2,4816 0,1628 0,0977 28,958 1,140 795,000 402,838 494,709 0,6244 0,7668 500,0 11,94816 0,0392 17440,5 24,550"
+      },
+      "warnings": []
+    },
+    {
+      "designation": "DRAKE",
+      "gauge": "795,0",
+      "aluminium_strands": 26,
+      "steel_strands": 7,
+      "diameter_m": 0.028143,
+      "gmr_m": 0.01136904,
+      "nominal_current_a": 903.0,
+      "r_dc20_ohm_km": 0.0705,
+      "r_ac_ohm_km": {
+        "25": 0.073,
+        "50": 0.08,
+        "75": 0.087
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila DRAKE, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila DRAKE, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "DRAKE 795,0 26 7 1115,2 512,8 1628,0 749,4 344,6 1094,0 903 0,0705 0,0215 0,073 0,080 0,087 0,117 0,128 0,140 0,248 0,399",
+        "page2": "DRAKE 795,0 26 7 4,4425 3,4544 0,1749 0,1360 28,143 1,108 795,000 402,838 468,451 0,6244 0,7261 500,0 11,36904 0,0373 14174,7 36,600"
+      },
+      "warnings": []
+    },
+    {
+      "designation": "CONDOR",
+      "gauge": "795,0",
+      "aluminium_strands": 54,
+      "steel_strands": 7,
+      "diameter_m": 0.027762000000000002,
+      "gmr_m": 0.0112776,
+      "nominal_current_a": 881.0,
+      "r_dc20_ohm_km": 0.0705,
+      "r_ac_ohm_km": {
+        "25": 0.073,
+        "50": 0.081,
+        "75": 0.091
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila CONDOR, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila CONDOR, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "CONDOR 795,0 54 7 1115,5 408,4 1523,9 749,6 274,4 1024,0 881 0,0705 0,0215 0,073 0,081 0,091 0,117 0,131 0,146 0,249 0,400",
+        "page2": "CONDOR 795,0 54 7 3,0836 3,0836 0,1214 0,1214 27,762 1,093 795,000 402,838 455,096 0,6244 0,7054 500,0 11,27760 0,0370 12950,0 28,100"
+      },
+      "warnings": []
+    },
+    {
+      "designation": "CRANE",
+      "gauge": "874,5",
+      "aluminium_strands": 54,
+      "steel_strands": 7,
+      "diameter_m": 0.029108000000000002,
+      "gmr_m": 0.011765280000000001,
+      "nominal_current_a": 935.0,
+      "r_dc20_ohm_km": 0.0643,
+      "r_ac_ohm_km": {
+        "25": 0.066,
+        "50": 0.075,
+        "75": 0.083
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila CRANE, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila CRANE, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "CRANE 874,5 54 7 1226,0 448,0 1674,0 823,8 301,0 1124,8 935 0,0643 0,0196 0,066 0,075 0,083 0,107 0,120 0,133 0,245 0,395",
+        "page2": "CRANE 874,5 54 7 3,2334 3,2334 0,1273 0,1273 29,108 1,146 874,500 443,096 500,580 0,6868 0,7759 550,0 11,76528 0,0386 14242,7 26,350"
+      },
+      "warnings": []
+    },
+    {
+      "designation": "CANARY",
+      "gauge": "900,0",
+      "aluminium_strands": 54,
+      "steel_strands": 7,
+      "diameter_m": 0.029515,
+      "gmr_m": 0.01194816,
+      "nominal_current_a": 926.0,
+      "r_dc20_ohm_km": 0.0623,
+      "r_ac_ohm_km": {
+        "25": 0.065,
+        "50": 0.073,
+        "75": 0.081
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila CANARY, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila CANARY, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "CANARY 900,0 54 7 1262,6 462,2 1724,8 848,4 310,6 1159,0 926 0,0623 0,0190 0,065 0,073 0,081 0,104 0,117 0,130 0,244 0,393",
+        "page2": "CANARY 900,0 54 7 3,2791 3,2791 0,1291 0,1291 29,515 1,162 900,000 456,064 515,160 0,7059 0,7985 566,0 11,94816 0,0392 14651,0 22,100"
+      },
+      "warnings": []
+    },
+    {
+      "designation": "RAIL",
+      "gauge": "954,0",
+      "aluminium_strands": 45,
+      "steel_strands": 7,
+      "diameter_m": 0.029591000000000003,
+      "gmr_m": 0.011765280000000001,
+      "nominal_current_a": 953.0,
+      "r_dc20_ohm_km": 0.0594,
+      "r_ac_ohm_km": {
+        "25": 0.062,
+        "50": 0.069,
+        "75": 0.076
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila RAIL, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila RAIL, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "RAIL 954,0 45 7 1339,0 260,8 1599,8 899,8 175,2 1075,0 953 0,0594 0,0181 0,062 0,069 0,076 0,100 0,111 0,123 0,245 0,395",
+        "page2": "RAIL 954,0 45 7 3,6982 2,4663 0,1456 0,0971 29,591 1,165 954,000 483,418 516,838 0,7493 0,8011 600,0 11,76528 0,0386 11748,0 38,450"
+      },
+      "warnings": []
+    },
+    {
+      "designation": "CARDINAL",
+      "gauge": "954,0",
+      "aluminium_strands": 54,
+      "steel_strands": 7,
+      "diameter_m": 0.030378,
+      "gmr_m": 0.01225296,
+      "nominal_current_a": 960.0,
+      "r_dc20_ohm_km": 0.0591,
+      "r_ac_ohm_km": {
+        "25": 0.061,
+        "50": 0.068,
+        "75": 0.076
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila CARDINAL, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila CARDINAL, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "CARDINAL 954,0 54 7 1338,8 490,1 1828,9 899,7 329,3 1229,0 960 0,0591 0,0180 0,061 0,068 0,076 0,098 0,110 0,123 0,242 0,390",
+        "page2": "CARDINAL 954,0 54 7 3,3757 3,3757 0,1329 0,1329 30,378 1,196 954,000 483,547 546,063 0,7493 0,8464 600,0 12,25296 0,0402 15535,8 31,250"
+      },
+      "warnings": []
+    },
+    {
+      "designation": "ORTOLAN",
+      "gauge": "1033,5",
+      "aluminium_strands": 45,
+      "steel_strands": 7,
+      "diameter_m": 0.030809999999999997,
+      "gmr_m": 0.01225296,
+      "nominal_current_a": 1006.0,
+      "r_dc20_ohm_km": 0.0548,
+      "r_ac_ohm_km": {
+        "25": 0.057,
+        "50": 0.064,
+        "75": 0.07
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila ORTOLAN, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila ORTOLAN, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "ORTOLAN 1033,5 45 7 1451,1 282,6 1733,7 975,1 189,9 1165,0 1006 0,0548 0,0167 0,057 0,064 0,070 0,092 0,103 0,113 0,242 0,380",
+        "page2": "ORTOLAN 1033,5 45 7 3,8481 2,5654 0,1515 0,1010 30,810 1,213 1033,500 523,676 559,870 0,8117 0,8678 650,0 12,25296 0,0402 12564,4 27,700"
+      },
+      "warnings": []
+    },
+    {
+      "designation": "CURLEW",
+      "gauge": "1033,5",
+      "aluminium_strands": 54,
+      "steel_strands": 7,
+      "diameter_m": 0.031648,
+      "gmr_m": 0.0128016,
+      "nominal_current_a": 1010.0,
+      "r_dc20_ohm_km": 0.0545,
+      "r_ac_ohm_km": {
+        "25": 0.057,
+        "50": 0.063,
+        "75": 0.071
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila CURLEW, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila CURLEW, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "CURLEW 1033,5 54 7 1449,9 530,8 1980,7 974,3 356,7 1331,0 1010 0,0545 0,0166 0,057 0,063 0,071 0,091 0,102 0,114 0,239 0,385",
+        "page2": "CURLEW 1033,5 54 7 3,5154 3,5154 0,1384 0,1384 31,648 1,246 1033,500 523,676 591,612 0,8117 0,9170 650,0 12,80160 0,0402 16850,9 37,150"
+      },
+      "warnings": [
+        "RMG impreso en mm y pies no concuerda; revisar antes de usar L. Se conserva la columna mm."
+      ]
+    },
+    {
+      "designation": "BLUEJAY",
+      "gauge": "1113,0",
+      "aluminium_strands": 45,
+      "steel_strands": 7,
+      "diameter_m": 0.031979,
+      "gmr_m": 0.012649200000000001,
+      "nominal_current_a": 1051.0,
+      "r_dc20_ohm_km": 0.0509,
+      "r_ac_ohm_km": {
+        "25": 0.053,
+        "50": 0.06,
+        "75": 0.066
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila BLUEJAY, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila BLUEJAY, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "BLUEJAY 1113,0 45 7 1561,3 306,3 1867,6 1049,2 205,8 1255,0 1051 0,0509 0,0155 0,053 0,060 0,066 0,086 0,096 0,106 0,240 0,386",
+        "page2": "BLUEJAY 1113,0 45 7 3,9954 2,6645 0,1573 0,1049 31,979 1,259 1113,000 563,934 602,967 0,8741 0,9346 700,0 12,64920 0,0415 13517,0 29,800"
+      },
+      "warnings": []
+    },
+    {
+      "designation": "FINCH",
+      "gauge": "1113,0",
+      "aluminium_strands": 54,
+      "steel_strands": 19,
+      "diameter_m": 0.033842,
+      "gmr_m": 0.01328928,
+      "nominal_current_a": 1060.0,
+      "r_dc20_ohm_km": 0.0509,
+      "r_ac_ohm_km": {
+        "25": 0.053,
+        "50": 0.059,
+        "75": 0.066
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila FINCH, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila FINCH, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "FINCH 1113,0 54 19 1567,4 562,2 2129,6 1053,2 377,8 1431,0 1060 0,0509 0,0155 0,053 0,059 0,066 0,085 0,095 0,106 0,236 0,380",
+        "page2": "FINCH 1113,0 54 19 3,6474 2,1875 0,1436 0,0862 33,842 1,293 1113,000 563,934 635,483 0,8741 0,9850 700,0 13,28928 0,0436 18234,3 40,200"
+      },
+      "warnings": []
+    },
+    {
+      "designation": "BUNTING",
+      "gauge": "1192,5",
+      "aluminium_strands": 45,
+      "steel_strands": 7,
+      "diameter_m": 0.03307,
+      "gmr_m": 0.01307592,
+      "nominal_current_a": 1099.0,
+      "r_dc20_ohm_km": 0.0476,
+      "r_ac_ohm_km": {
+        "25": 0.05,
+        "50": 0.055,
+        "75": 0.062
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila BUNTING, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila BUNTING, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "BUNTING 1192,5 45 7 1674,1 326,0 2000,1 1124,9 219,1 1344,0 1099 0,0476 0,0145 0,050 0,055 0,062 0,081 0,089 0,099 0,237 0,382",
+        "page2": "BUNTING 1192,5 45 7 4,1351 2,7559 0,1628 0,1085 33,070 1,302 1192,500 604,257 645,805 0,9366 1,0010 750,0 13,07592 0,0429 14514,9 32,000"
+      },
+      "warnings": []
+    },
+    {
+      "designation": "GRACKLE",
+      "gauge": "1192,5",
+      "aluminium_strands": 54,
+      "steel_strands": 19,
+      "diameter_m": 0.033985,
+      "gmr_m": 0.01374648,
+      "nominal_current_a": 1108.0,
+      "r_dc20_ohm_km": 0.0472,
+      "r_ac_ohm_km": {
+        "25": 0.05,
+        "50": 0.055,
+        "75": 0.062
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila GRACKLE, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila GRACKLE, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "GRACKLE 1192,5 54 19 1679,0 602,3 2281,3 1128,3 404,7 1533,0 1108 0,0472 0,0144 0,050 0,055 0,062 0,080 0,089 0,099 0,234 0,376",
+        "page2": "GRACKLE 1192,5 54 19 3,7744 2,2657 0,1486 0,0862 33,985 1,338 1192,500 604,257 680,837 0,9366 1,0553 750,0 13,74648 0,0451 19549,7 43,100"
+      },
+      "warnings": []
+    },
+    {
+      "designation": "BITTERN",
+      "gauge": "1272,0",
+      "aluminium_strands": 45,
+      "steel_strands": 7,
+      "diameter_m": 0.034163,
+      "gmr_m": 0.013533120000000001,
+      "nominal_current_a": 1145.0,
+      "r_dc20_ohm_km": 0.0446,
+      "r_ac_ohm_km": {
+        "25": 0.047,
+        "50": 0.052,
+        "75": 0.058
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila BITTERN, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila BITTERN, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "BITTERN 1272,0 45 7 1786,2 347,8 2134,0 1200,3 233,7 1434,0 1145 0,0446 0,0136 0,047 0,052 0,058 0,076 0,084 0,093 0,235 0,378",
+        "page2": "BITTERN 1272,0 45 7 4,2697 2,8245 0,1681 0,1121 34,163 1,345 1272,000 644,515 689,031 0,9990 1,0680 800,0 13,53312 0,0444 15467,4 34,100"
+      },
+      "warnings": []
+    },
+    {
+      "designation": "PHEASANT",
+      "gauge": "1272,0",
+      "aluminium_strands": 54,
+      "steel_strands": 19,
+      "diameter_m": 0.035103,
+      "gmr_m": 0.01420368,
+      "nominal_current_a": 1148.0,
+      "r_dc20_ohm_km": 0.0443,
+      "r_ac_ohm_km": {
+        "25": 0.047,
+        "50": 0.053,
+        "75": 0.058
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila PHEASANT, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila PHEASANT, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "PHEASANT 1272,0 54 19 1790,8 642,3 2433,1 1203,4 431,6 1635,0 1148 0,0443 0,0135 0,047 0,053 0,058 0,075 0,085 0,094 0,231 0,372",
+        "page2": "PHEASANT 1272,0 54 19 3,8989 2,3393 0,1535 0,0921 35,103 1,382 1272,000 644,515 726,192 0,9990 1,1256 800,0 14,20368 0,0466 20320,8 44,800"
+      },
+      "warnings": []
+    },
+    {
+      "designation": "DIPPER",
+      "gauge": "1351,5",
+      "aluminium_strands": 45,
+      "steel_strands": 7,
+      "diameter_m": 0.035204,
+      "gmr_m": 0.01399032,
+      "nominal_current_a": 1188.0,
+      "r_dc20_ohm_km": 0.042,
+      "r_ac_ohm_km": {
+        "25": 0.045,
+        "50": 0.05,
+        "75": 0.055
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila DIPPER, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila DIPPER, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "DIPPER 1351,5 45 7 1899,3 367,2 2266,5 1276,3 246,7 1523,0 1188 0,0420 0,0128 0,045 0,050 0,055 0,072 0,080 0,088 0,232 0,374",
+        "page2": "DIPPER 1351,5 45 7 4,4018 2,9337 0,1733 0,1155 35,204 1,386 1351,500 684,837 731,934 1,0615 1,1345 850,0 13,99032 0,0459 16420,0 36,200"
+      },
+      "warnings": []
+    },
+    {
+      "designation": "MARTIN",
+      "gauge": "1351,5",
+      "aluminium_strands": 54,
+      "steel_strands": 19,
+      "diameter_m": 0.03617,
+      "gmr_m": 0.014691359999999999,
+      "nominal_current_a": 1198.0,
+      "r_dc20_ohm_km": 0.0417,
+      "r_ac_ohm_km": {
+        "25": 0.044,
+        "50": 0.049,
+        "75": 0.055
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila MARTIN, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila MARTIN, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "MARTIN 1351,5 54 19 1902,5 682,4 2584,9 1278,4 458,6 1737,0 1198 0,0417 0,0127 0,044 0,049 0,055 0,071 0,079 0,088 0,229 0,368",
+        "page2": "MARTIN 1351,5 54 19 4,0183 2,4105 0,1582 0,0949 36,170 1,424 1351,500 684,837 771,547 1,0615 1,1959 850,0 14,69136 0,0482 21590,9 47,600"
+      },
+      "warnings": []
+    },
+    {
+      "designation": "BOBOLINK",
+      "gauge": "1431,0",
+      "aluminium_strands": 45,
+      "steel_strands": 7,
+      "diameter_m": 0.036246,
+      "gmr_m": 0.014325599999999999,
+      "nominal_current_a": 1227.0,
+      "r_dc20_ohm_km": 0.0387,
+      "r_ac_ohm_km": {
+        "25": 0.042,
+        "50": 0.047,
+        "75": 0.052
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila BOBOLINK, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila BOBOLINK, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "BOBOLINK 1431,0 45 7 2031,6 395,6 2427,2 1347,2 265,8 1613,0 1227 0,0387 0,0121 0,042 0,047 0,052 0,068 0,076 0,084 0,231 0,371",
+        "page2": "BOBOLINK 1431,0 45 7 4,5288 3,0201 0,1783 0,1189 36,246 1,427 1431,000 725,095 775,418 1,1239 1,2019 900,0 14,32560 0,0470 17372,5 38,000"
+      },
+      "warnings": []
+    },
+    {
+      "designation": "PLOVER",
+      "gauge": "1431,0",
+      "aluminium_strands": 54,
+      "steel_strands": 19,
+      "diameter_m": 0.037211,
+      "gmr_m": 0.01505712,
+      "nominal_current_a": 1237.0,
+      "r_dc20_ohm_km": 0.0394,
+      "r_ac_ohm_km": {
+        "25": 0.042,
+        "50": 0.047,
+        "75": 0.052
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila PLOVER, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila PLOVER, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "PLOVER 1431,0 54 19 2015,3 722,9 2738,2 1354,2 485,8 1840,0 1237 0,0394 0,0120 0,042 0,047 0,052 0,067 0,075 0,084 0,227 0,365",
+        "page2": "PLOVER 1431,0 54 19 4,1351 2,4816 0,1628 0,0977 37,211 1,465 1431,000 725,095 816,996 1,1239 1,2663 900,0 15,05712 0,0494 22860,9 50,400"
+      },
+      "warnings": []
+    },
+    {
+      "designation": "NUTHATCH",
+      "gauge": "1510,5",
+      "aluminium_strands": 45,
+      "steel_strands": 7,
+      "diameter_m": 0.037236,
+      "gmr_m": 0.01481328,
+      "nominal_current_a": 1268.0,
+      "r_dc20_ohm_km": 0.0374,
+      "r_ac_ohm_km": {
+        "25": 0.04,
+        "50": 0.045,
+        "75": 0.05
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila NUTHATCH, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila NUTHATCH, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "NUTHATCH 1510,5 45 7 2120,0 412,8 2532,8 1425,2 276,8 1702,0 1268 0,0374 0,0114 0,040 0,045 0,050 0,065 0,072 0,080 0,228 0,367",
+        "page2": "NUTHATCH 1510,5 45 7 4,6533 3,1013 0,1832 0,1221 37,236 1,466 1510,500 765,353 818,256 1,1863 1,2683 950,0 14,81328 0,0486 18189,0 40,100"
+      },
+      "warnings": []
+    },
+    {
+      "designation": "PARROT",
+      "gauge": "1510,5",
+      "aluminium_strands": 54,
+      "steel_strands": 19,
+      "diameter_m": 0.038252,
+      "gmr_m": 0.01542288,
+      "nominal_current_a": 1278.0,
+      "r_dc20_ohm_km": 0.0374,
+      "r_ac_ohm_km": {
+        "25": 0.04,
+        "50": 0.045,
+        "75": 0.05
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila PARROT, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila PARROT, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "PARROT 1510,5 54 19 2127,0 763,0 2890,0 1429,3 512,7 1942,0 1278 0,0374 0,0114 0,040 0,045 0,050 0,064 0,072 0,080 0,225 0,362",
+        "page2": "PARROT 1510,5 54 19 4,2494 2,5502 0,1673 0,1004 38,252 1,506 1510,500 765,353 862,385 1,1863 1,3367 950,0 15,42288 0,0506 24176,3 53,300"
+      },
+      "warnings": []
+    },
+    {
+      "designation": "LAPWING",
+      "gauge": "1590,0",
+      "aluminium_strands": 45,
+      "steel_strands": 7,
+      "diameter_m": 0.038151000000000004,
+      "gmr_m": 0.015179040000000001,
+      "nominal_current_a": 1310.0,
+      "r_dc20_ohm_km": 0.0358,
+      "r_ac_ohm_km": {
+        "25": 0.038,
+        "50": 0.043,
+        "75": 0.047
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila LAPWING, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila LAPWING, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "LAPWING 1590,0 45 7 2218,8 448,0 2666,8 1491,0 301,0 1792,0 1310 0,0358 0,0109 0,038 0,043 0,047 0,061 0,069 0,076 0,226 0,364",
+        "page2": "LAPWING 1590,0 45 7 4,7752 3,1826 0,1880 0,1253 38,151 1,502 1590,000 805,676 861,160 1,2488 1,3348 1000,0 15,17904 0,0498 19141,5 42,200"
+      },
+      "warnings": []
+    },
+    {
+      "designation": "FALCON",
+      "gauge": "1590,0",
+      "aluminium_strands": 54,
+      "steel_strands": 19,
+      "diameter_m": 0.039243,
+      "gmr_m": 0.01594104,
+      "nominal_current_a": 1313.0,
+      "r_dc20_ohm_km": 0.0354,
+      "r_ac_ohm_km": {
+        "25": 0.038,
+        "50": 0.042,
+        "75": 0.048
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila FALCON, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila FALCON, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "FALCON 1590,0 54 19 2238,8 803,0 3041,8 1504,4 539,6 2044,0 1313 0,0354 0,0108 0,038 0,042 0,048 0,061 0,068 0,077 0,222 0,358",
+        "page2": "FALCON 1590,0 54 19 4,3586 2,6162 0,1716 0,1030 39,243 1,543 1590,000 805,676 907,805 1,2488 1,4071 1000,0 15,94104 0,0523 25446,4 56,100"
+      },
+      "warnings": []
+    },
+    {
+      "designation": "CHUKAR",
+      "gauge": "1780,0",
+      "aluminium_strands": 84,
+      "steel_strands": 19,
+      "diameter_m": 0.040691000000000005,
+      "gmr_m": 0.01633728,
+      "nominal_current_a": 1434.0,
+      "r_dc20_ohm_km": 0.0318,
+      "r_ac_ohm_km": {
+        "25": 0.035,
+        "50": 0.038,
+        "75": 0.041
+      },
+      "sources": {
+        "resistance_capacity": "Tablas_ACSR.pdf, p.PDF1, fila CHUKAR, columnas Ω/km y A",
+        "diameter_gmr": "Tablas_ACSR.pdf, p.PDF2, fila CHUKAR, columnas mm"
+      },
+      "raw_rows": {
+        "page1": "CHUKAR 1780,0 84 19 2503,2 583,3 3086,5 1682,0 392,0 2074,0 1434 0,0318 0,0097 0,035 0,038 0,041 0,056 0,061 0,066 0,221 0,355",
+        "page2": "CHUKAR 1780,0 84 19 3,6982 2,2200 0,1456 0,0874 40,691 1,602 1780,000 901,934 975,482 1,3960 1,5120 1119,0 16,33728 0,0536 23133,1 51,000"
+      },
+      "warnings": []
+    }
+  ]
+}
