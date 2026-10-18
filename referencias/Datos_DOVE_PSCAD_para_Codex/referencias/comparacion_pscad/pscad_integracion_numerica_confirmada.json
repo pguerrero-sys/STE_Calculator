@@ -1,0 +1,43 @@
+{
+  "source": "Datos y selección de métodos confirmados por el usuario en la interfaz PSCAD, actualización de etapa 7F",
+  "unit": "Ω/km",
+  "labels": ["A", "B", "C"],
+  "state": "con_transposicion",
+  "EarthImpedanceFormula": 2,
+  "method": "Direct numerical integration",
+  "original_method": {"EarthImpedanceFormula": 0, "method": "Deri-Semlyen"},
+  "frequency_Hz": 60,
+  "resistivity_ohm_m": 100,
+  "relative_permittivity_final": 1,
+  "subconductors_per_phase": 4,
+  "conductor": "DOVE",
+  "ground_wires": 0,
+  "self": {"real": 0.0838480984, "imag": 0.639290544},
+  "mutual": {"real": 0.0575947846, "imag": 0.384430764},
+  "published_sequences": {
+    "real": [0.1990376676, 0.0262533138, 0.0262533138],
+    "imag": [1.408152072, 0.254859780, 0.254859780]
+  },
+  "known_PSCAD_inputs": {
+    "provenance": "Parámetros del archivo de entrada suministrados por el usuario; selectores comprobados en la interfaz PSCAD",
+    "Sag_m": 0,
+    "Strand_Radius_m": 0.001858,
+    "Number_of_Outer_Strands": 16,
+    "Total_Number_of_Strands": 26,
+    "Conductor_Relative_Permeability": 1,
+    "DCResistance_ohm_km": 0.102,
+    "GroundWires": 0,
+    "GroundPermittivity_final": 1
+  },
+  "Y_unchanged": {
+    "reported_by_user": true,
+    "numeric_matrix_supplied": true,
+    "unit": "S/m",
+    "labels": ["A", "B", "C"],
+    "real": [[1e-11, 0, 0], [0, 1e-11, 0], [0, 0, 1e-11]],
+    "imag": [[5.20392911e-9, -1.24409590e-9, -1.24409590e-9], [-1.24409590e-9, 5.20392911e-9, -1.24409590e-9], [-1.24409590e-9, -1.24409590e-9, 5.20392911e-9]],
+    "original_reference": "DOVE_220kV_ConTransposicion_Prueba.txt, SHUNT ADMITTANCE MATRIX (Y) [mhos/m], líneas 63-66",
+    "max_absolute_difference_S_per_m": 0
+  },
+  "limitations": "Los parámetros de entrada de hebras, sag y permeabilidad son conocidos. Siguen sin identificarse el RMG efectivo y la impedancia interna calculados por PSCAD, el tratamiento interno exacto de las hebras y la reducción efectiva del haz. No se proporciona resultado sin transposición para el método 2."
+}
