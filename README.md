@@ -3,6 +3,15 @@
 Aplicación local para parámetros de líneas aéreas trifásicas de circuito sencillo
 y doble circuito. Python 3.11+, Streamlit, NumPy, SciPy y Plotly.
 
+## Usar en línea o descargar
+
+- [Abrir STE Calculator en el navegador](https://ste-calculator-pguerrero.streamlit.app/).
+- [Repositorio público y descarga del código](https://github.com/pguerrero-sys/STE_Calculator):
+  selecciona **Code > Download ZIP**, extrae la carpeta y sigue la instalación de abajo.
+
+La versión en línea no requiere instalar Python. La distribución pública conserva
+los datos y las referencias documentadas, pero no incluye PDF de libros y apuntes.
+
 ## Ejecutar en Windows
 
 Desde PowerShell, en esta carpeta:
